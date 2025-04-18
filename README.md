@@ -1,10 +1,10 @@
 # HTML & CSS Course
 
-This folder contains examples and exercises for learning HTML and CSS. Below is a brief description of the files:
+This folder contains examples and exercises for learning HTML and CSS.
 
-- **button.html**: Demonstrates the styling and behavior of different types of buttons using CSS.
+## Learning Source
 
-Feel free to explore and modify the files to enhance your understanding of HTML and CSS concepts.
+This course is based on the [HTML & CSS Full Course - Beginner to Pro](https://www.youtube.com/watch?v=G3e-cpL7ofc) by **SuperSimpleDev**. It provides a beginner-friendly introduction to HTML and CSS, covering essential concepts and practical examples to help you build a strong foundation in web development.
 
 ## Topics Covered
 
